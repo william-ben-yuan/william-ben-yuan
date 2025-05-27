@@ -41,5 +41,5 @@ I'm always looking for new challenges, constantly improving my skills, and explo
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/1161052/174464774-90512746-78a4-46b6-a34d-d44e37d1cff2.png" alt="William Avatar" />
+  <img src="https://c.tenor.com/bCfpwMjfAi0AAAAC/tenor.gif" alt="William Avatar" />
 </div>
