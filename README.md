@@ -11,9 +11,6 @@
 - **Frameworks:** Yii, Laravel
 - **Ferramentas e Serviços:** GitHub, AWS
 
-### :open_book: Meus interesses
-Além de programar, estou interessado em aprender sobre novas tecnologias no mundo do blockchain e desenvolver aplicações web escaláveis.
-
 ### :earth_americas: Vamos nos conectar!
 Sinta-se à vontade para entrar em contato comigo através do [GitHub](https://github.com/williambydeng). Estou aberto a colaborações, discussões técnicas ou simplesmente para bater um papo sobre tecnologia.
 
@@ -28,4 +25,4 @@ Sinta-se à vontade para entrar em contato comigo através do [GitHub](https://g
 <img alt="image" src="https://user-images.githubusercontent.com/1161052/174464774-90512746-78a4-46b6-a34d-d44e37d1cff2.png">
 </div>
 
-### :star2: Obrigado por visitar meu perfil! Espero que encontre inspiração nos meus projetos.
+
