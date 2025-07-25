@@ -19,11 +19,13 @@ I'm always looking for new challenges, constantly improving my skills, and explo
 #### 📦 Frameworks
 - Laravel  
 - Yii
+- Nest.js
 
 #### ⚙️ DevOps & Tools
 - Docker  
 - Git & GitHub  
 - AWS
+- Redis
 
 ---
 
